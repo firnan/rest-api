@@ -1,0 +1,25 @@
+[
+	{
+		
+		"nama" : "Firnan Sholihuda", 
+		"umur" : 23, 
+		"nim"  : "123140088", 
+		"lulus" : true, 
+		"hobby" : ["Sepak Bola", "Futsal", "Coding"], 
+		"pembimbing" : { 
+			"pembimbing1" : "Bambang Yuwono",
+			"pembimbing2" : "Heru Cahya Rustamaji"
+		}
+	},
+	{
+		"nama" : "Alvani Rizky", 
+		"umur" : 23, 
+		"nim"  : "123140027", 
+		"lulus" : true, 
+		"hobby" : ["Gambar", "Lukis", "Coding"], 
+		"pembimbing" : { 
+			"pembimbing1" : "Awang Hendrianto",
+			"pembimbing2" : "Heriyanto"
+		}
+	}
+]
